@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leather Briefcase",
+      "description": "Classic leather briefcase in excellent condition, perfect for professionals.",
+      "currentBidPrice": "85.00",
+      "timeLeft": "2d 3h",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/JYqgDZ7/Bid1-min.png"  
+    },
+    {
+      "id": 2,
+      "title": "Retro Polaroid Camera",
+      "description": "Fully functional instant camera with a nostalgic design, includes one film pack.",
+      "currentBidPrice": "47.50",
+      "timeLeft": "5h 20m",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/XZpXMcYN/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Antique Pocket Watch",
+      "description": "Elegant vintage pocket watch with intricate detailing and chain.",
+      "currentBidPrice": "150.00",
+      "timeLeft": "1d 11h",
+      "bidsCount": 20,
+      "image": "https://i.ibb.co.com/pvz7F8GW/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Gaming Keyboard - RGB Backlit",
+      "description": "Rolex Watch",
+      "currentBidPrice": "62.99",
+      "timeLeft": "12h 40m",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/m53JsD3p/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "Collectible Vinyl Record",
+      "description": "Limited edition vinyl record from a classic rock band.",
+      "currentBidPrice": "33.00",
+      "timeLeft": "3d 6h",
+      "bidsCount": 5,
+      "image": "https://i.ibb.co.com/DP4kGKTv/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Wireless Noise-Canceling Headphones",
+      "description": "Over-ear headphones with long battery life and superior sound quality.",
+      "currentBidPrice": "120.75",
+      "timeLeft": "22h 15m",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co.com/hRX9yjhB/Bid6-min.png"
+    }
+  ]
+  
